@@ -4,6 +4,8 @@ Este é um projeto para sortear nomes, ele pode ser útil para eventos de amigo 
 
 Projeto desenvolvido com os conhecimentos adquiridos no curso de lógica de programação da Oracle Next Education e Alura.
 
+Para acessar o sorteio clique aqui: https://carolinesvazz.github.io/amigo-secreto/
+
 ## 🖼 Demonstração
 
 ![tela1](https://github.com/user-attachments/assets/d187db2a-e03e-4798-ab42-e5ba27ad66d3)
